@@ -16,3 +16,6 @@ it also contains the start and finish times of the work day
 enum day:
 the days are an enumerated value because the days of the week are static and aren't going to be changed in the future,
 I used only SA and SU but added the rest so its complete.
+
+
+to run the program correctly, the file with the employee's information should be put in the resources folder. 
